@@ -16,6 +16,8 @@ Se pretende realizar una aplicación en Java capaz de gestionar la información 
 3. Fecha Nacimiento: Fecha (FECNAC).
 4. Dirección: String (DIR).
 5. Teléfono: int (TFNO)
+
+<br />
 La aplicación tiene que ser capaz de realizar las tareas de alta, baja, modificación y consulta de los datos de las personas del censo.
 
 
