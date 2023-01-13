@@ -6,7 +6,7 @@ Gestionar información de censo
 Realiza una aplicación general, en modo texto, para realizar una conexión a una base de datos y poder lanzarle órdenes de cualquier tipo. 
 Ten en cuenta que debe ser reutilizable y personalizable. Se podrán ejecutar sentencias **SELECT, UPDATE, INSERT y DELETE**.
 
-<br />
+
 <!-- USAGE EXAMPLES -->
 ## Alcance
 
